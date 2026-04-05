@@ -36,4 +36,4 @@ A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHa
 
 ## Basically What I did Is took ElCapor and Ficello's Polytoria executor (PolyHack) And Turned It into A Big Exploit/Modding tool For roblox and Other games
 
-## Download PolyHack Here: <a href="https://github.com/ElCapor/polytoria-executor/tree/master/.download">Download From Github Releases</a>
+## Download PolyHack Here: <a href="https://github.com/ElCapor/polytoria-executor/tree/master/.download">Download From Github</a>
