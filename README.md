@@ -32,4 +32,8 @@ A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHa
 ## Credits
 - Idea by Djengineer14
 - Coded by Kiro AI
-- Original executor by ElCapor and Ficello — YuTech Labs
+- Original executor by ElCapor and Ficello — YuTech Labs (The Polytoria Part)
+
+## Basically What I did Is took ElCapor and Ficello's Polytoria executor (PolyHack) And Turned It into A Big Exploit/Modding tool For roblox and Other games
+
+## Download PolyHack Here: <a href="https://github.com/ElCapor/polytoria-executor/tree/master/.download">Download From Github Releases</a>
