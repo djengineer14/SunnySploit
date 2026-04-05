@@ -1,6 +1,6 @@
 # SunnySploit
 ## This is currently in devolopment, so there might be bugs 
-## Send Feedback: famemail410@gmail.com
+## Send Feedback: simplelogin-newsletter.consult900@simplelogin.com
 A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHack reskin but grew into a full multi-tool.
 
 ## Features
