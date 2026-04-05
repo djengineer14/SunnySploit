@@ -10,7 +10,7 @@ A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHa
 - Polytoria Lua executor with Monaco editor (syntax highlighting, autocomplete, find/replace)
 - Roblox executor (via WeAreDevs API)
 - Backdoor scanner for Roblox games (remote vulnerability detection)
-- Mod launcher: Minecraft Forge 1.16.4 + 1.20.1, Garry's Mod, Among Us, FreeDoom, Cataclysm DDA
+- Mod launcher: Minecraft Forge 1.16.4 + 1.20.1, Garry's Mod, Among Us, FreeDoom, Cataclysm DDA (might not work)
 - GUI Builder — create custom in-game button layouts with hotkeys
 - Script Hub — built-in scripts organized by category (Movement, Visual, Trolling, Utility)
 - SingleHacks — singleplayer memory editing via MungPlex
@@ -26,8 +26,8 @@ A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHa
 - x64 processor
 - [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - WebView2 Runtime (usually pre-installed via Edge)
-- For Minecraft mods: Java 8 (Forge 1.16.4) or Java 17 (Forge 1.20.1)
-- For Garry's Mod / Among Us: Steam
+- For Minecraft mods: Java 8 (Forge 1.16.4) or Java 17 (Forge 1.20.1) (SunnySploit Can install these if you want it to)
+- For Garry's Mod / Among Us: Steam (might not work)
 
 ## Credits
 - Idea by Djengineer14
