@@ -27,9 +27,9 @@ A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHa
 
  Old SunnySploit URL (Not up to date):  
   <a href="https://www.mediafire.com/file/wprf9v0dbk2848j/SunnySploit.zip/file">https://www.mediafire.com/file/wprf9v0dbk2848j/SunnySploit.zip/file</a>
-
+## Not Supported: Windows MS‑DOS / 1.0 / 2.0 / 3.x / 4.0 / 95 / 98 / 2000 / ME / XP / Longhorn / Vista / 7 / 8 / 8.1, macOS, Linux
 ## Requirements
-- Windows 10 (1903+) or Windows 11 — Windows 7/8/8.1 not supported
+- Windows 10 (1903+) or Windows 11
 - x64 processor
 - [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - WebView2 Runtime (usually pre-installed via Edge)
