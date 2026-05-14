@@ -19,7 +19,14 @@ A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHa
 - XP-style yellow/green theme
 
 ## Download SunnySploit Here
--> <a href="https://www.mediafire.com/file/wprf9v0dbk2848j/SunnySploit.zip/file">Download From Mediafire</a>
+ New SunnySploit URL (up to date Newest version):  
+  <a href="https://www.mediafire.com/file/vzkmyumoezsxiiw/SunnySploit+-+Multi+Exploit.zip/file">https://www.mediafire.com/file/vzkmyumoezsxiiw/SunnySploit+-+Multi+Exploit.zip/file</a>
+
+ NEW! Google Drive URL (Up to date Newest Version):  
+  <a href="https://drive.google.com/file/d/1GM4dMYA3uzMmzWJwc4ActXWFdM5UyHrE/view?usp=sharing">https://drive.google.com/file/d/1GM4dMYA3uzMmzWJwc4ActXWFdM5UyHrE/view?usp=sharing</a>
+
+ Old SunnySploit URL (Not up to date):  
+  <a href="https://www.mediafire.com/file/wprf9v0dbk2848j/SunnySploit.zip/file">https://www.mediafire.com/file/wprf9v0dbk2848j/SunnySploit.zip/file</a>
 
 ## Requirements
 - Windows 10 (1903+) or Windows 11 — Windows 7/8/8.1 not supported
