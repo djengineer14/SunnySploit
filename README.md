@@ -1,6 +1,8 @@
 # SunnySploit
 ## This is currently in devolopment, so there might be bugs 
 ## Send Feedback: simplelogin-newsletter.consult900@simplelogin.com
+## Notice: Do NOT download the ones from DownloadHere.txt Those are OUTDATED
+## It is now Released to Github as a single EXE
 (I might not see your feedbacks)
 
 
