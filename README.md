@@ -1,44 +1,135 @@
 # SunnySploit
-## This is currently in devolopment, so there might be bugs 
-## Send Feedback: simplelogin-newsletter.consult900@simplelogin.com
-## Notice: Do NOT download the ones from DownloadHere.txt Those are OUTDATED
-## It is now Released to Github as a single EXE
-(I might not see your feedbacks)
 
+**SunnySploit** is a Windows multi-tool focused on **Roblox and Polytoria**.
 
-A Polytoria + Roblox exploit tool and game modding launcher. Started as a PolyHack reskin but grew into a full multi-tool.
+> **Development Notice:** SunnySploit is still in development. Bugs, crashes, and incomplete features may occur.
+
+## Important Notices
+
+* SunnySploit is currently **in development**.
+* SunnySploit is released on GitHub as a **single `.exe`**.
+* **Do NOT download files listed in `DownloadHere.txt`** — they are outdated.
+* **Feedback:** `simplelogin-newsletter.consult900@simplelogin.com`
+* I may not see or respond to every feedback message.
+
+---
+
+## Supported Platforms
+
+* **Roblox**
+* **Polytoria**
+
+---
 
 ## Features
-- Polytoria Lua executor with Monaco editor (syntax highlighting, autocomplete, find/replace)
-- Roblox executor (via WeAreDevs API)
-- Backdoor scanner for Roblox games (remote vulnerability detection)
-- Mod launcher: Minecraft Forge 1.16.4 + 1.20.1, Garry's Mod, Among Us, FreeDoom, Cataclysm DDA (might not work)
-- GUI Builder — create custom in-game button layouts with hotkeys
-- Script Hub — built-in scripts organized by category (Movement, Visual, Trolling, Utility)
-- SingleHacks — singleplayer memory editing via MungPlex
-- SunnyJS — browser JavaScript injection tool
-- Auto-inject, always on top, and other settings
-- XP-style yellow/green theme
 
-## Download SunnySploit Here
- SunnySploit Releases:  
-  <a href="https://github.com/djengineer14/SunnySploit/releases/tag/SunnySploit">SunnySploit Releases</a>
+### Roblox
 
-## Not Supported: Windows MS‑DOS / 1.0 / 2.0 / 3.x / 4.0 / 95 / 98 / 2000 / ME / XP / Longhorn / Vista / 7 / 8 / 8.1, macOS, Linux
+* Roblox scripting/execution features
+* Script hub
+* Script organization by category
+* Utility and customization tools
+* GUI tools
+* Roblox-focused features currently under development
+
+### Polytoria
+
+* Polytoria Lua executor
+* Monaco-based code editor
+* Syntax highlighting
+* Autocomplete
+* Find & Replace
+* Script execution tools
+* Features based on the original PolyHack project
+
+### General
+
+* Modern Windows GUI
+* XP-inspired yellow/green SunnySploit theme
+* Draggable interface
+* Always-on-top option
+* Auto-inject options
+* Configurable settings
+* Single-executable release
+
+> Some features may change or be removed while SunnySploit is being developed.
+
+---
+
+## Download
+
+### Official GitHub Release
+
+**[Download SunnySploit from GitHub Releases](https://github.com/djengineer14/SunnySploit/releases/tag/SunnySploit)**
+
+Only download SunnySploit from the official GitHub release page.
+
+---
+
 ## Requirements
-- Windows 10 (1903+) or Windows 11
-- x64 processor
-- [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-- WebView2 Runtime (usually pre-installed via Edge)
-- For Minecraft mods: Java 8 (Forge 1.16.4) or Java 17 (Forge 1.20.1) (SunnySploit Can install these if you want it to)
-- For Garry's Mod / Among Us: Steam (might not work)
+
+* **Windows 10 (1903+)** or **Windows 11**
+* **x64 processor**
+* **.NET 8 Desktop Runtime**
+* **WebView2 Runtime**
+  Usually already installed with Microsoft Edge.
+
+### .NET 8
+
+[Download .NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+---
+
+## Unsupported Operating Systems
+
+SunnySploit does **not** support:
+
+* Windows MS-DOS
+* Windows 1.0
+* Windows 2.0
+* Windows 3.x
+* Windows 4.x
+* Windows 95
+* Windows 98
+* Windows 2000
+* Windows ME
+* Windows XP
+* Windows Longhorn
+* Windows Vista
+* Windows 7
+* Windows 8
+* Windows 8.1
+* macOS
+* Linux
+
+---
 
 ## Credits
-- Idea by Djengineer14
-- Coded by Kiro AI
-- Error Assistant: Copilot, Claude
-- Original executor by ElCapor and Ficello — YuTech Labs (The Polytoria Part)
 
-## Basically What I did Is took ElCapor and Ficello's Polytoria executor (PolyHack) And Turned It into A Big Exploit/Modding tool For roblox and Other games
+* **Idea:** Djengineer14
+* **Original Polytoria executor:** ElCapor & Ficello — YuTech Labs
+* **Original project:** PolyHack
 
-## Download PolyHack Here: <a href="https://github.com/ElCapor/polytoria-executor/tree/master/.download">Download From Github</a>
+---
+
+## Original PolyHack Project
+
+SunnySploit originally started as a **PolyHack reskin**.
+
+The Polytoria portion of SunnySploit is based on the original PolyHack project created by **ElCapor and Ficello**.
+
+**Original PolyHack repository:**
+
+[View PolyHack on GitHub](https://github.com/ElCapor/polytoria-executor/tree/master/.download)
+
+Please refer to the original project for its own licensing and attribution information.
+
+---
+
+## About SunnySploit
+
+SunnySploit started as a simple **PolyHack reskin** and gradually evolved into a larger tool focused on **Roblox and Polytoria**.
+
+The goal is to provide a unified interface for scripts, tools, and utilities while keeping the classic **SunnySploit yellow/green theme**.
+
+**SunnySploit — Roblox + Polytoria, all in one.**
