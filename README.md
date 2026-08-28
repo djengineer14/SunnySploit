@@ -60,7 +60,7 @@
 
 ### Official GitHub Release
 
-**[Download SunnySploit from GitHub Releases](https://github.com/djengineer14/SunnySploit/releases/tag/SunnySploit)**
+**[Download SunnySploit from GitHub Releases](https://github.com/djengineer14/SunnySploit/releases/)**
 
 Only download SunnySploit from the official GitHub release page.
 
