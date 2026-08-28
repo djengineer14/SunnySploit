@@ -1,5 +1,5 @@
 # SunnySploit
-
+# You can still download just note it's very buggy and broken
 **SunnySploit** is a Windows multi-tool focused on **Roblox and Polytoria**.
 
 > **Development Notice:** SunnySploit is still in development. Bugs, crashes, and incomplete features may occur.
